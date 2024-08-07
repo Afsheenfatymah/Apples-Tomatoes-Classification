@@ -10,21 +10,21 @@ ________________________________________________________________________________
 
 # Features
 
-Image Classification: Classifies images into two categories: apples and tomatoes.
-Teachable Machine Integration: Utilizes Google's Teachable Machine for model training and deployment.
-Accuracy: Model demonstrates effective classification capabilities, distinguishing between apples and tomatoes based on visual features.
+- Image Classification: Classifies images into two categories: apples and tomatoes.
+- Teachable Machine Integration: Utilizes Google's Teachable Machine for model training and deployment.
+- Accuracy: Model demonstrates effective classification capabilities, distinguishing between apples and tomatoes based on visual features.
 _______________________________________________________________________________________________________________________________________________
 
 # Setup
 
-Make sure you have Teachable Machine setup. You can access it here.
-Download the pre-trained model from the repository or train your own using Teachable Machine.
+- Make sure you have Teachable Machine setup.
+- Download the pre-trained model from the repository or train your own using Teachable Machine.
 _________________________________________________________________________________________________________
 
 # Run the Model:
 
-Follow the instructions in README.md for loading and running the model.
-Upload images for classification and get results for whether they are apples or tomatoes.
+- Follow the instructions in README.md for loading and running the model.
+- Upload images for classification and get results for whether they are apples or tomatoes.
 _________________________________________________________________________________________________________
 
 # Contributing
